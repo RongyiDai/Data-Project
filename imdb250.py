@@ -6,7 +6,9 @@ Created on Fri Mar 29 17:39:17 2019
 
 @author: dairongyi
 """
-
+"""
+This project is to scrape data from the imdb ranking website and load all the information of the top250 movies and do further analysis.
+"""
 import time
 import datetime
 import numpy as np
